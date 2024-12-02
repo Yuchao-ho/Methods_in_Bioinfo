@@ -1,0 +1,8 @@
+# Ignore all files in a folder
+logs/
+
+# Ignore all .log files
+*.log
+
+# Ignore a specific subfolder
+Bio-Info/bioinformatics-summary-new.pdf
